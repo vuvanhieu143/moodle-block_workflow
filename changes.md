@@ -1,5 +1,9 @@
 # Change log for the Workflow block
 
+## Changes in 2.6
+* This version works with Moodle 5.2.
+* Fix workflow block set activity command issue.
+
 ## Changes in 2.5
 * This version works with Moodle 5.1.
 
